@@ -23,7 +23,7 @@ int main(int argc, char** argv)
 
 
     cvtColor(src_image, dst_image, CV_BGR2GRAY);
-    message = imwrite(dst_path, dst_image) ? "OK" : "FAIL";
+    message = imwrite(dst_path, dst_image) ? "Test OK! check lena_gray.jpg \n" : "Test FAIL! \n";
     cout << message ;
 
     return 0;
