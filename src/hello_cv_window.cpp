@@ -1,5 +1,5 @@
 // hello to opencv3.2
-// link: https://github.com/kyshel/template/blob/master/hello_cv.cpp
+// link: https://github.com/kyshel/template/blob/master/src/hello_cv_window.cpp
 
 #include <opencv2/core.hpp>
 #include <opencv2/imgcodecs.hpp>
