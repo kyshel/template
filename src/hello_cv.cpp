@@ -1,3 +1,6 @@
+// Link:
+// https://github.com/kyshel/template/blob/master/src/hello_cv.cpp
+
 #include <opencv2/opencv.hpp>
 #include <iostream>
 
